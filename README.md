@@ -1,6 +1,4 @@
-Messing around with my README.md file, work in progress
+README WORK IN PROGRESS
 
 <img src="https://www.codewars.com/users/televisionia/badges/large">
-  ```diff
-  - (find my codewars at https://www.codewars.com/users/televisionia.)
-  ```
+<i>(find my codewars at https://www.codewars.com/users/televisionia.)</i>
