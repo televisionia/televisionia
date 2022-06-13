@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://www.codewars.com/users/televisionia/badges/large">
 </p>
-<i align="center">(find my codewars at https://www.codewars.com/users/televisionia.)</i>
+<p align="center"><i><small>(find my codewars at https://www.codewars.com/users/televisionia.)</small></i></p>
 
 <h4>README WORK IN PROGRESS</h4>
 
