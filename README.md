@@ -4,10 +4,9 @@
 </p>
 <p align="center"><i><sup>(find my codewars at https://www.codewars.com/users/televisionia.)</sup></i></p>
 
-<p align="center">
 ![Big Boi Stats](https://github-readme-stats.vercel.app/api?username=televisionia&show_icons=true&theme=synthwave)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=televisionia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h4>README WORK IN PROGRESS</h4>
 
