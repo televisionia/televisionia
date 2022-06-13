@@ -4,6 +4,8 @@
 </p>
 <p align="center"><i><sup>(find my codewars at https://www.codewars.com/users/televisionia.)</sup></i></p>
 
+![Televisionia's GitHub stats](https://github-readme-stats.vercel.app/api?username=televisionia&show_icons=true&theme=synthwave)
+
 <h4>README WORK IN PROGRESS</h4>
 
 ```python
