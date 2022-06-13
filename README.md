@@ -9,3 +9,6 @@
 print("Hi nerds")
 ```
 
+```diff
+- I am red
+```
