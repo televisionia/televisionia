@@ -1,5 +1,10 @@
-<p align="center">![Visitor Count](https://profile-counter.glitch.me/televisionia/count.svg)</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/televisionia/count.svg">
+</p>
+
+
 ![tevobannercropped](https://user-images.githubusercontent.com/106242960/173281058-dd5a7efa-6abd-42c8-a8de-a014a6b139a3.png)
+
 <p align="center">
   <img src="https://www.codewars.com/users/televisionia/badges/large">
 </p>
